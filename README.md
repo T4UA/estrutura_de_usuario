@@ -16,26 +16,26 @@ Definições do Projeto
 
 Diretórios
 
-#justica/
-#revolucao/
-#pirata/
+# justica/
+# revolucao/
+# pirata/
 
 Usuários
 
-#edward
-#shanks
-#ivankov
-#luffy
-#nami
-#garp
-#smoker
-#sabo
-#dragon
+# edward
+# shanks
+# ivankov
+# luffy
+# nami
+# garp
+# smoker
+# sabo
+# dragon
 
 Grupos
 
-#GROUP_REVOLUCIONARIOS
-#GROUP_MARINHA
-#GROUP_PIRATAS
+# GROUP_REVOLUCIONARIOS
+# GROUP_MARINHA
+# GROUP_PIRATAS
 
 dio.me
