@@ -1,4 +1,4 @@
-Script criado para criação e configuração de uma estrutura de usuarios.
+-> Script criado para criação e configuração de uma estrutura de usuarios.
 
 Distribução utilizada: Ubuntu Server
 Terminal utilizado: Bash
@@ -38,4 +38,15 @@ Grupos
 * GROUP_MARINHA
 * GROUP_PIRATAS
 
-dio.me
+-> Script criado para criação de um servidor WEB automaticamente
+
+Definições do Projeto
+
+* Atualizar o servidor;
+* Instalar o apache2;
+* Instalar o unzip;
+* Baixar a aplicação disponivel no repositorio syn_pilates no diretorio /tmp;
+* Copiar os arquivos da aplicação no diretório padrão do apache;
+* Subir o arquivo de script criado para a sua conta no GitHub.
+
+DIO.me
